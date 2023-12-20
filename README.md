@@ -1,2 +1,2 @@
 # jukebox
-Evolution of Muzik into a macos app
+Evolution of Muzik into a tray app
